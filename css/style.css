@@ -1118,7 +1118,7 @@ form label {
   border-radius: 50%;
 }
 @media screen and (max-width: 480px) {
-  .fh5co-header {
+  .fh5co-cover {
     background-position: 500px 0px;
   }
   .couple-half .groom,
